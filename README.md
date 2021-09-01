@@ -10,7 +10,7 @@ We approached the challenge of molecular localization clustering as an image cla
 <img src="images/workflow.jpg" width="600">
 </div>
 
-A manually classified mouse uterine MSI benchmark data is provided to evaluate the performance of the method. t-SNE visualizations of learned molecular localizations from benchmark data obtained by pre-trained model and re-trained model are shown below. Full self-supervised clustering results of benchmark data is provided in the images. 
+A manually classified mouse uterine MSI benchmark data is provided to evaluate the performance of the method. t-SNE visualizations of learned molecular localizations from benchmark data obtained by pre-trained and re-trained models are shown below. Full self-supervised clustering results of benchmark data is provided in the images. 
 
 <div align="center">
 <img src="images/representations.png" width="600">
