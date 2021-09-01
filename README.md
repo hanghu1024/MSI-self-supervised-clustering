@@ -23,7 +23,7 @@ Two trained models after each period of self-supervised training are provided in
 
 The uterine MSI benchmark data is provided in ***benchmark_data***.<br>
 
-`main.ipynb` is an example script for clustering benchmark data. It has been tested on Google Colab (GPU & high-RAM).<br>
+`main.ipynb` is an example script for clustering benchmark data. It has been tested on Google Colab.<br>
 
 # Tested environment
 Google Colab (GPU & high-RAM)<br>
